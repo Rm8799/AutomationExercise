@@ -8,7 +8,7 @@ For reference when installing Selenium and web drivers: https://selenium-python.
 - Install latest version of Python from https://www.python.org/downloads/
 (v 3.8.1 as of 2/22/2020)
 
--Install Selenium:
+- Install Selenium:
 Start a command prompt using cmd.exe and run the pip command as given below from your Python directory to install Selenium
   Ex. if Python was installed to 'C:\Python', then type this into the command prompt:
     C:\Python\Scripts\pip install selenium.
