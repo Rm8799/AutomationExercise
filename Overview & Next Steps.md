@@ -13,14 +13,14 @@ Test cases inluded in this project are:
 NEXT STEPS
 
 1. Expanding the test suite to include the remaining test cases 
-  - Checkout
+  - Checkout:
   Includes adding items to cart and validating each step of the checkout process: Summary, Sign In, Address, Shipping, Payment
   To validate the checkout process itself, I would recommend using as few items as possible.  Adding multiple items to the shopping       cart, and confirming the total $ could be written as a separate test.
   
-  - Searching for clothing items
+  - Searching for clothing items:
   Recommended to break this is into multiple test cases that use search criteria that return results from varyious shopping categories,   as well as confirming that the search functionality properly returns individual or multiple items.
   
-  - Sharing an item via social media
+  - Sharing an item via social media:
   Individual test cases for each social media link on a single item (Twitter, Facebook, Google+, Pinterest)
   Since these sharing links redirect to external websites, those sites' functionaly needn't be tested here.  Recommend writing test       cases focused on just validating the website that each external link element is going to redirect the user to.
   
