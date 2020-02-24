@@ -13,7 +13,7 @@ Test cases inluded in this project are:
 NEXT STEPS
 
 1. Expanding the test suite to include the remaining test cases 
-  - Checkout:
+  - Checkout: <br/>
   Includes adding items to cart and validating each step of the checkout process: Summary, Sign In, Address, Shipping, Payment
   To validate the checkout process itself, I would recommend using as few items as possible.  Adding multiple items to the shopping       cart, and confirming the total $ could be written as a separate test.
   
